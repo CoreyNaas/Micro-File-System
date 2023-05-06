@@ -1,4 +1,4 @@
-# Micro File System (MFS) Ideas and Prompt
+# Micro-File-System (MFS) Ideas and Prompt
 
 I got pretty entranced watching [two](https://www.youtube.com/watch?v=qLrTcmyj7Ic) [and](https://www.youtube.com/watch?v=q3_V0EJcD-k) a [half](https://www.youtube.com/watch?v=gKDJLa0OoDc) videos about the NTFS file system, and got started writing my own. Or the plan for one. We'll see if I actually do it!
 
